@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body style="background:black; color:lime; text-align:center;">
+
+<h1>WELCOME 😎</h1>
+<p>You are logged in 💻</p>
+
+<button onclick="logout()">Logout</button>
+
+<script>
+function logout() {
+    window.location.href = "day5.html";
+}
+</script>
+
+</body>
+</html>
